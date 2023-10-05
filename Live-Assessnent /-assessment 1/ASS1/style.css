@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    
+ 
+}
+
+body{
+    background-color:#89CFF0 ;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blue;
+  }
+  
+  li {
+    float: left;
+  }
+  
+ a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+img{
+ width: 25%;
+ height: auto;
+ position:relative ;
+}
+  
