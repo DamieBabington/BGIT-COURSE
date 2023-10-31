@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    }
+    
+    p{
+        width: 40%;
+        padding: 10px;
+        font-weight: bold;
+        font-size: 18px;
+        border-style:solid;
+    }
+    
+    
+    
+    .button{
+        padding: 10px 20px;
+        margin: 5px;
+    }
