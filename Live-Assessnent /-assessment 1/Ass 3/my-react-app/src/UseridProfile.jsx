@@ -1,8 +1,9 @@
+import profilePic from './my-react-app/src/beyonce.webp'
 
 function Card (){
   return (
     <div className="card">
-<img src={imageUrl} alt={'${beyonce}'s profile'}></img>
+<img src={profilePic} alt="profile image"></img>
 <h2> Beyonce </h2>
 <p>
   <strong>Age:</strong> {37}
